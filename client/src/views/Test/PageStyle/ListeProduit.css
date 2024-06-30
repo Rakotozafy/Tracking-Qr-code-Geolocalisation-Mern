@@ -1,0 +1,49 @@
+.ListeConteneur{
+  width:100%;
+}
+.title{
+  color:purple;
+  font-size: 2em;
+  font-family: sans-serif;
+  margin:50px 0px 100px 0px;
+  text-align: center;
+}
+.titreTableau{
+  color:white;
+  background-color: grey;
+}
+.tableau td{
+  border:1px black solid;
+  padding: 10px;
+  margin:10px;
+}
+.boutonAction{
+  color:white;
+  padding: 10px;
+  margin-left: 5px;
+  border-style: none;
+  cursor:pointer;
+}
+.modif{
+  background-color: green;
+}
+.suppr{
+  background-color: red;
+}
+.lien{
+  border-style: none;
+  margin-top:0px;
+  margin-right: 50px;
+  padding: 10px;
+  height:60px;
+  color:white;
+  background-color: orange;
+  cursor:pointer;
+}
+.HeadBlock{
+  display:flex;
+  margin: 40px 30px;
+}
+.nombre{
+  text-align: center;
+}

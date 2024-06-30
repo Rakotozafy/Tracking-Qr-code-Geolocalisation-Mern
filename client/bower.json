@@ -1,0 +1,27 @@
+{
+  "name": "Tracking code",
+    "authors": [
+    "Tojo Tiana Rakotozafy"
+  ],
+  "description": "",
+  "main": "public/index.html",
+  "keywords": [
+    "material",
+    "design",
+    "material-ui",
+    "jirama",
+    "tracking",
+    "code",
+    "qrcode"
+  ],
+  "license": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "build"
+  ],
+  "private": true
+}

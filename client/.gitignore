@@ -1,0 +1,18 @@
+# Dependency directories
+node_modules/
+
+# Build directories
+build/
+dist/
+
+# SASS cache
+.sass-cache/
+
+# Parcel cache
+.cache
+
+# Next.js build output
+.next
+
+# Gatsby files
+.cache/

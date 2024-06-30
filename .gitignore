@@ -1,0 +1,38 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Node modules
+node_modules/
+
+# dotenv environment variable files
+.env
+.env.test
+# Mobile
+Mobile/
+
+# VS Code settings
+.vscode/
+
+# WebStorm settings
+.idea/
+
+# MacOS files
+.DS_Store
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Yarn v2
+.yarn/*
+!.yarn/cache
+!.yarn/patches
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+yarn-error.log
+
+# PM2 logs
+.pids

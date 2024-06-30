@@ -1,0 +1,21 @@
+{ 
+  "produit": [
+{
+  "_id": 960,
+  "nom_magasin": "Bearbrook Skateboard DPAL",
+  "adresse_magasin": "8720 Russell Road",
+  "province": "Planchodrome Bearbrook",
+  "lng": 47.526831,
+  "lat" : -18.894851
+},
+{
+  "_id": 960,
+  "nom_magasin": "Bearbrook Skateboard Park",
+  "adresse_magasin": "8720 Russell Road",
+  "province": "Planchodrome Bearbrook",
+  "lng": 47.520031,
+  "lat" : -17.894851
+}
+]
+  
+}

@@ -1,0 +1,18 @@
+# Dependency directories
+node_modules/
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Build directories
+build/
+dist/
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Compiled binary addons (http://nodejs.org/api/addons.html)
+build/Release
